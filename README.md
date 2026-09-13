@@ -1,7 +1,7 @@
 # Amal Obaidat portfolio
 
-## Descreption
-A personal portfolio website that showcases my journey as Computer Science graduate,Full-Stack development trainee, and aspiring web developer 
+## Description
+A personal portfolio website that showcases my journey as a Computer Science graduate,Full-Stack Development Trainee, and aspiring web developer 
 
 ## Features
 - Responsive design
@@ -41,24 +41,24 @@ Graduated with Excellent Standing
 
 ### Skills
 - Technical Skills
-```
+
 | Skills | Skills|
 |--------|-------|
 | HTML5       | Flutter |
 | CSS3        | Python |
 | JavaScript  | Figma |
 | Java        | Git & GitHub |
-| Bootstrap   |
-``` 
+| Bootstrap   |      |
+ 
 - Soft Skills
-```
+
 | Skills | Skills|
 |--------|-------|
 | Communication | Time Management | 
 | Teamwork | Creativity |
 | Leadership | Attention to Detail |
 | Problem Solving | Fast Learning |
-```
+
 ### Featured Project
 - DataWizard – AI-Powered Business Data Analysis Platform
 
