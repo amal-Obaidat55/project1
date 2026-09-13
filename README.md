@@ -28,7 +28,7 @@ This portfolio highlights my educational background, professional training, tech
 - Full-Stack Development Trainee at Orange Coding Academy
 - Android Development Trainee at Irbid District Electricity Company
 
-## Qualifications
+### Qualifications
 - Bachelor's Degree in Computer Science – Al al-Bayt University
 GPA: 3.64 / 4.00
 Ranked First in the Computer Science Department
@@ -41,7 +41,7 @@ Graduated with Excellent Standing
 
 ### Skills
 - Technical Skills
-```
+```text
 | HTML5       | Flutter |
 | CSS3        | Python |
 | JavaScript  | Figma |
@@ -49,7 +49,7 @@ Graduated with Excellent Standing
 | Bootstrap   |
 ```
 - Soft Skills
-```
+```text
 | Communication | Time Management | 
 | Teamwork | Creativity |
 | Leadership | Attention to Detail |
@@ -68,7 +68,7 @@ HTML, CSS, JavaScript, Python, FastAPI, Pandas, and Gemini AI.
 - LinkedIn: linkedin.com/in/amal-obaidat-153306365
 - GitHub: github.com/amal-Obaidat55
 
-# Author
+## Author
 - Amal Obaidat
 
 ### Computer Science Graduate | Full-Stack Development Trainee | Web Developer
