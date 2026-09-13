@@ -41,15 +41,19 @@ Graduated with Excellent Standing
 
 ### Skills
 - Technical Skills
-
+```
+| Skills | Skills|
+|--------|-------|
 | HTML5       | Flutter |
 | CSS3        | Python |
 | JavaScript  | Figma |
 | Java        | Git & GitHub |
 | Bootstrap   |
-
+``` 
 - Soft Skills
-```text
+```
+| Skills | Skills|
+|--------|-------|
 | Communication | Time Management | 
 | Teamwork | Creativity |
 | Leadership | Attention to Detail |
