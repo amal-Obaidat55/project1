@@ -1175,12 +1175,19 @@ input[name="imgs"] {
     .nameImg{
         gap: 0.5rem;
     }
+    .nameImg img{
+        width: 2rem;
+        height: 2rem;
+    }
     .refHead{
         padding-left: 0.5rem;
         padding-top: 0.5rem;
     }
     .head5{
         font-size: 0.9rem;
+    }
+    .RContact{
+        gap: 0.2rem;
     }
     .RContact a{
         padding: 0.2rem;
