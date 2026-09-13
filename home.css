@@ -145,11 +145,11 @@ body {
     }
 
     .disc {
-        font-size: 0.7rem;
+        font-size: 0.8rem;
     }
 
     .img img {
-        width: 50%;
+        width: 60%;
         height: auto;
         margin-top: 80px;
     }
@@ -193,7 +193,7 @@ body {
     }
 
     .img img {
-        width: 35%;
+        width: 50%;
         height: auto;
         padding-top: 20px;
     }
@@ -321,7 +321,7 @@ body {
 @media (max-width:480px) {
 
     .title {
-        font-size: 1rem;
+        font-size: 1.3rem;
         margin-top: 3.1rem;
     }
 
@@ -331,7 +331,7 @@ body {
 
     .mainText {
         margin: 0.5rem;
-        font-size: 0.7rem;
+        font-size: 0.8rem;
         text-align: center;
     }
 
@@ -349,12 +349,12 @@ body {
     }
 
     .headText {
-        font-size: 0.9rem;
+        font-size: 1rem;
     }
 
     .top {
         gap: 1px;
-        font-size: 0.5rem;
+        font-size: 0.8rem;
     }
 
     .sub {
@@ -363,7 +363,7 @@ body {
 
     .text {
         padding: 2px;
-        font-size: 0.5rem;
+        font-size: 0.8rem;
     }
 
     .num1,
@@ -395,17 +395,22 @@ body {
         gap: 0.5rem;
         margin: 0.2rem;
     }
-
+    .sub{
+        font-size: 1rem;
+    }
+    .text{
+        font-size: 1rem;
+    }
     .card1,
     .card2,
     .card3 {
-        font-size: 0.8rem;
+        font-size: 0.5rem;
     }
 
     .num1,
     .num2,
     .num3 {
-        width: 1.5rem;
+        width: 2rem;
     }
 }
 
@@ -521,7 +526,7 @@ body {
     }
 
     .Etitle {
-        font-size: 1rem;
+        font-size: 2rem;
     }
 
     .contentCards {
@@ -537,15 +542,15 @@ body {
     }
 
     .expCards h3 {
-        font-size: 0.8rem;
+        font-size: 1rem;
     }
 
     .expCards h5 {
-        font-size: 0.6rem;
+        font-size: 0.9rem;
     }
 
     .list {
-        font-size: 0.5rem;
+        font-size: 0.8rem;
     }
 
     .using {
@@ -554,7 +559,7 @@ body {
 
     .items {
         width: 100%;
-        font-size: 0.5rem;
+        font-size: 0.8rem;
     }
 
 
@@ -693,22 +698,22 @@ body {
     }
 
     .qualiName {
-        font-size: 0.8rem;
+        font-size: 1rem;
     }
 
     .from {
-        font-size: 0.7rem;
+        font-size: 0.8rem;
     }
 
     .moreDetails {
-        font-size: 0.5rem;
+        font-size: 0.7rem;
     }
 
 }
 
 @media (min-width:481px) and (max-width:768px) {
     .title{
-        font-size: 1.8rem;
+        font-size: 1.5rem;
     }
     .quali{
         margin-top: 0.1rem;
@@ -748,7 +753,9 @@ body {
 
 }
 
-@media (min-width:1280px) {}
+@media (min-width:1280px) {
+    
+}
 
 .skills {
     background-image: url(images/back1.png);
@@ -1082,7 +1089,7 @@ input[name="imgs"] {
     padding: 20px;
 }
 
-.refContent p {
+.refPoint p {
     padding-left: 40px;
 
 }
@@ -1094,6 +1101,57 @@ input[name="imgs"] {
     justify-content: space-between;
 }
 
+.refCards{
+    display: flex;
+    gap:1rem;
+    
+}
+
+.RCard1,.RCard2{
+    border: 3px ridge rgb(233, 185, 245);
+    background: rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(1px);
+    border-radius: 30px;
+    padding: 20px;
+    justify-content: start;
+    
+}
+.RCard1 p{
+    padding-left: 1rem;
+}
+.RCard2 p{
+     padding-left: 1rem;
+}
+.nameImg{
+    display: flex;
+    justify-items: center;
+    align-items: center;
+    gap: 1rem;
+}
+.refHead{
+    padding-left: 1rem;
+    padding-top: 1rem;
+}
+.nameImg img{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+}
+.RContact{ 
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+.RContact a{
+    flex: 1;
+    text-decoration: none;
+    text-align: center;
+    padding: 1rem;
+    color: rgb(44, 28, 48) !important;
+    background: rgba(255, 255, 255, 0.5);
+    border-radius: 50px;
+    font-weight: bold !important;
+}
 @media (max-width:480px) {
     .head2 {
         font-size: 0.9rem;
@@ -1104,9 +1162,40 @@ input[name="imgs"] {
         font-size: 0.8rem;
 
     }
+
+    .refCards{
+        gap: 0.5rem;
+    }
+    .RCard1 p{
+        padding-left: 0.5rem;
+    }
+    .RCard2 p{
+        padding-left: 0.5rem;
+    }
+    .nameImg{
+        gap: 0.5rem;
+    }
+    .refHead{
+        padding-left: 0.5rem;
+        padding-top: 0.5rem;
+    }
+    .head5{
+        font-size: 0.9rem;
+    }
+    .RContact a{
+        padding: 0.2rem;
+        font-weight: 200;
+        font-size: 0.7rem;
+    }
 }
 
-@media (min-width:481px) and (max-width:768px) {}
+@media (min-width:481px) and (max-width:768px) {
+    .RContact a{
+        padding: 0.5rem;
+        font-weight: 200;
+        font-size: 0.9rem;
+    }
+}
 
 @media (min-width:769px) and (max-width:1279px) {}
 
