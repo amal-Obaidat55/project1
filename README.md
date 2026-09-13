@@ -20,15 +20,15 @@ A personal portfolio website that showcases my journey as a Computer Science gra
 - Bootstrap 5
 
 
-### About
+## About
 This portfolio highlights my educational background, professional training, technical skills, and projects. It reflects my passion for building modern, responsive, and user-friendly web applications with a focus on clean design and performance.
 
 
-### Experiences
+## Experiences
 - Full-Stack Development Trainee at Orange Coding Academy
 - Android Development Trainee at Irbid District Electricity Company
 
-### Qualifications
+## Qualifications
 - Bachelor's Degree in Computer Science – Al al-Bayt University
 GPA: 3.64 / 4.00
 Ranked First in the Computer Science Department
@@ -39,8 +39,8 @@ Graduated with Excellent Standing
 - HTML, CSS & JavaScript Course – Udacity
 - Android Fundamentals Developer – Udacity
 
-### Skills
-- Technical Skills
+## Skills
+### Technical Skills
 
 | Skills | Skills|
 |--------|-------|
@@ -50,7 +50,7 @@ Graduated with Excellent Standing
 | Java        | Git & GitHub |
 | Bootstrap   |      |
  
-- Soft Skills
+### Soft Skills
 
 | Skills | Skills|
 |--------|-------|
@@ -59,13 +59,13 @@ Graduated with Excellent Standing
 | Leadership | Attention to Detail |
 | Problem Solving | Fast Learning |
 
-### Featured Project
-- DataWizard – AI-Powered Business Data Analysis Platform
+## Featured Project
+### DataWizard – AI-Powered Business Data Analysis Platform
 
-- DataWizard is an AI-powered platform that helps businesses analyze CSV and Excel data through interactive dashboards, insights, and smart recommendations.
+ - DataWizard is an AI-powered platform that helps businesses analyze CSV and Excel data through interactive dashboards, insights, and smart recommendations.
 
-- Technologies Used:
-HTML, CSS, JavaScript, Python, FastAPI, Pandas, and Gemini AI.
+ - Technologies Used:
+ HTML, CSS, JavaScript, Python, FastAPI, Pandas, and Gemini AI.
 
 ## Contact
 - Email: amalobaidat065@gmail.com
